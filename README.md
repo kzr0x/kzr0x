@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;Hey there! I'm kzR0x -->
+## 👋 &nbsp;Hey there! I'm kzR0x
 
 Welcome to my repository!
 
