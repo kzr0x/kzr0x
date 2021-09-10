@@ -1,8 +1,14 @@
 ## Hi, I'm Santiago! 👋
 
-Welcome to my repository!
+I'm a Data Analyst with passion for business problem solving.
 
-I'm a Data Analyst currently learning Data Scientist areas.
+### My Skills
+
+- Python
+- SQL Server
+- Power BI, Tableau Google Data Studio
+- 
+### Let's get in touch
 
 📑 I have a blog where I write about DS, basics and how-to guides for using tools Al mal tiempo, buena data
 
